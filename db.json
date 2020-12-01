@@ -1,28 +1,30 @@
 {
-    "data": [
-        {
-            "eventUid": "9e1280a3-f70a-4985-86a0-e699cde45db9",
-            "eventTime": "2020-11-30T02:36:12.128Z",
-            "eventType": "ACCOUNT_CREATED",
-            "source": {
-                "cid": "P00001"
+    "event": {
+        "data": [
+            {
+                "eventUid": "9e1280a3-f70a-4985-86a0-e699cde45db9",
+                "eventTime": "2020-11-30T02:36:12.128Z",
+                "eventType": "ACCOUNT_CREATED",
+                "source": {
+                    "cid": "P00001"
+                }
+            },
+            {
+                "eventUid": "de3ce137-268c-45d6-9441-70f5f88dfcdf",
+                "eventTime": "2020-11-30T05:03:55.208Z",
+                "eventType": "ACCOUNT_CREATED",
+                "source": {
+                    "cid": "P00002"
+                }
+            },
+            {
+                "eventUid": "c256318a-8db7-4659-9321-e2e5273f4ed6",
+                "eventTime": "2020-11-30T11:22:35.321Z",
+                "eventType": "ACCOUNT_CREATED",
+                "source": {
+                    "cid": "P00003"
+                }
             }
-        },
-        {
-            "eventUid": "de3ce137-268c-45d6-9441-70f5f88dfcdf",
-            "eventTime": "2020-11-30T05:03:55.208Z",
-            "eventType": "ACCOUNT_CREATED",
-            "source": {
-                "cid": "P00002"
-            }
-        },
-        {
-            "eventUid": "c256318a-8db7-4659-9321-e2e5273f4ed6",
-            "eventTime": "2020-11-30T11:22:35.321Z",
-            "eventType": "ACCOUNT_CREATED",
-            "source": {
-                "cid": "P00003"
-            }
-        }
-    ]
+        ]
+    }
 }
